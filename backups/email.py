@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# Backup script for email (IMAP) accounts
 
 from optparse import OptionParser
 import subprocess
