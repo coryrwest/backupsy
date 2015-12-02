@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(
-    name="Backupsy-Backups",
+    name="Backupsy",
     version="1.0",
     install_requires=[
         "gmvault"
